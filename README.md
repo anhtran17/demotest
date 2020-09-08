@@ -1,5 +1,5 @@
 # demotest
 cout <<"Anh Tran";
-xin chao 
-hello
+cout<<"xin chao"; 
+cout <<"hello";
 
